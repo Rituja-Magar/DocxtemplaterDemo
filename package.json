@@ -1,0 +1,17 @@
+{
+  "name": "docxtemplater-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-expressions": "^1.1.2",
+    "docxtemplater": "^3.19.10",
+    "lodash": "^4.17.20",
+    "pizzip": "^3.0.6"
+  }
+}

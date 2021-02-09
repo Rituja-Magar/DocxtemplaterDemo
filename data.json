@@ -1,0 +1,22 @@
+{
+    "name":{
+        "first_name":"Rituja",
+        "last_name":"Magar"
+    },
+    "toLower":"TOLOWER",
+    "phone": "9921194811",
+    "description": "Developer",
+    "products": [
+            "Windows",
+            "Mac OSX",
+            "Ubuntu"
+    ],
+    "hasKitty": true,
+    "kitty": "Minie",
+    "hasDog": false,
+    "dog" :null,
+    "hasProduct": true,
+    "price" : 10,
+    "users":["Rituja","John","Smith"],
+    "userName":"John"
+}
